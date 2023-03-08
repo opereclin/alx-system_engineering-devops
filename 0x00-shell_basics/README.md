@@ -1,1 +1,1 @@
-removes a directory which is not empty
+the script changes directory to previous one

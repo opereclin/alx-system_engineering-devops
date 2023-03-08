@@ -1,1 +1,1 @@
-the script changes directory to previous one
+list all files including hidden files

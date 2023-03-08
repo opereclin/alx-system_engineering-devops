@@ -1,1 +1,1 @@
-the scripts changes working directory to home directory
+this scripts displays current content of a directory in long format

@@ -1,1 +1,1 @@
-symbolic links
+the script copies html files

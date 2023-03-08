@@ -1,1 +1,1 @@
-a script that moves files within a folder in a directory
+the script deletes a file in a directory

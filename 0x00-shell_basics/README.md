@@ -1,1 +1,1 @@
-contains file type command
+symbolic links

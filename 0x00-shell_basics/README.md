@@ -1,1 +1,1 @@
-this scrips displays contents of cureent directory
+the scripts takes us to home directory

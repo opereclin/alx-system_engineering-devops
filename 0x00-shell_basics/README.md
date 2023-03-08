@@ -1,1 +1,1 @@
-the scripts takes us to home directory
+the scripts changes working directory to home directory

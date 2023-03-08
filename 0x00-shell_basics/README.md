@@ -1,1 +1,1 @@
-list all files including hidden files
+contains file type command

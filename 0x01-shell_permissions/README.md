@@ -1,1 +1,1 @@
-contains sudo command
+prints current user

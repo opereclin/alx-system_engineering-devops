@@ -1,1 +1,1 @@
-removes all permissions to both owner and group owner except other users
+displays content of file in long length

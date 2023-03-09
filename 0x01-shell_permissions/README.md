@@ -1,1 +1,1 @@
-displays content of file in long length
+mirror permissions

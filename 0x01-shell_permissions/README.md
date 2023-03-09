@@ -1,1 +1,1 @@
-contains multiple permissions
+gives all users permission to execute

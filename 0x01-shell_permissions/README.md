@@ -1,1 +1,1 @@
-executes file hello in working directory
+contains multiple permissions

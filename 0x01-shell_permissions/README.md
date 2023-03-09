@@ -1,1 +1,1 @@
-creates empty files
+executes file hello in working directory

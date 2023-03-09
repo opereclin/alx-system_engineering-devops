@@ -1,1 +1,1 @@
-this is a magic file
+this file contains magic files

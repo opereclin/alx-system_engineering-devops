@@ -1,1 +1,1 @@
-count that word
+Print three lines after pattern matching

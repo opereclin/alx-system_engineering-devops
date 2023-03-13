@@ -1,1 +1,1 @@
- It is a good file that cuts iron without making a noise
+Write a script that writes into the file ls_cwd_content the result of the command ls -la

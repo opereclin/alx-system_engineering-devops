@@ -1,1 +1,1 @@
-a scripts that prints current user
+add action to the path
